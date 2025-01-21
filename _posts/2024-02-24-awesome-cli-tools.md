@@ -67,7 +67,7 @@ lsd --tree --depth 2
 
 <https://github.com/eza-community/eza>{:target="_blank"} and <https://github.com/lsd-rs/lsd>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/eza demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/eza demo.png)
 
 
 &nbsp;
@@ -83,7 +83,7 @@ A cat(1) clone with wings. It is cat that comes with syntax highlighting and aut
 
 <https://github.com/sharkdp/bat>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/bat demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/bat demo.png)
 
 &nbsp;
 ### duf
@@ -93,7 +93,7 @@ It stands for Disk Usage/Free Utility and is  a better 'df' alternative which ca
 
 <https://github.com/muesli/duf>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/duf demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/duf demo.png)
 
 &nbsp;
 ### fzf
@@ -110,7 +110,7 @@ find * -type f | fzf > selected
 
 <https://github.com/junegunn/fzf>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/fzf demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/fzf demo.png)
 
 &nbsp;
 ### hyperfine
@@ -125,7 +125,7 @@ hyperfine  "find /mnt/hdd/Movies -type f"
 
 <https://github.com/sharkdp/hyperfine>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/hyperfine demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/hyperfine demo.png)
 
 &nbsp;
 ### jq
@@ -140,7 +140,7 @@ jq . package.json
 
 <https://github.com/jqlang/jq>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/jq demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/jq demo.png)
 
 &nbsp;
 ### dua-cli
@@ -160,8 +160,8 @@ dua interactive
 
 <https://github.com/Byron/dua-cli>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/dua-cli demo.png)
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/dua-cli interactive demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/dua-cli demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/dua-cli interactive demo.png)
 
 &nbsp;
 ### bandwhich
@@ -173,7 +173,7 @@ This is a CLI utility for displaying current network utilization by process, con
 
 <https://github.com/imsnif/bandwhich>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/bandwhich demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/bandwhich demo.png)
 
 &nbsp;
 ### ddgr and googler
@@ -188,7 +188,7 @@ ddgr internet
 
 <https://github.com/jarun/ddgr>{:target="_blank"} and <https://github.com/jarun/googler>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/ddgr demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/ddgr demo.png)
 
 &nbsp;
 ### micro
@@ -204,7 +204,7 @@ Also some people says 'Why not use GUI text editors?' Answer is simple, when con
 
 <https://github.com/zyedidia/micro>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/micro demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/micro demo.png)
 
 &nbsp;
 ### lazydocker
@@ -214,7 +214,7 @@ TUI interface for managing docker containers,images and volumes and to keep trac
 
 <https://github.com/jesseduffield/lazydocker>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/lazygit demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/lazygit demo.png)
 
 &nbsp;
 ### lazygit
@@ -226,7 +226,7 @@ TUI interface to manage git repository, just like lazydocker and made by same de
 
 <https://github.com/jesseduffield/lazygit>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/lazydocker demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/lazydocker demo.png)
 
 &nbsp;
 ### mycli
@@ -237,7 +237,7 @@ It is a terminal client for MySQL with autoCompletion and syntax highlighting.
 
 <https://github.com/dbcli/mycli>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/mycli demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/mycli demo.png)
 
 &nbsp;
 ### tldr
@@ -255,7 +255,7 @@ tldr grep
 
 <https://github.com/tldr-pages/tldr>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/tldr vs man.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/tldr vs man.png)
 
 &nbsp;
 ### yazi
@@ -266,7 +266,7 @@ can be configured to open with whatever program user wants. Very useful to surf 
 
 <https://github.com/sxyazi/yazi>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/yazi demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/yazi demo.png)
 
 &nbsp;
 ### asciinema
@@ -296,8 +296,8 @@ toilet hello --filter metal
 
 <https://github.com/cacalabs/toilet>{:target="_blank"} and  <https://github.com/cmatsuoka/figlet>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/toilet demo.png)
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/figlet demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/toilet demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/figlet demo.png)
 
 &nbsp;
 ### cowsay
@@ -314,4 +314,4 @@ cowsay -f eyes hello
 
 <https://github.com/cowsay-org/cowsay>{:target="_blank"}
 
-![](/assets/images/posts/2024-02-24-awesome-cli-tools/cowsay demo.png)
+![]({{site.baseurl}}/assets/images/posts/2024-02-24-awesome-cli-tools/cowsay demo.png)
