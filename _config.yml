@@ -1,0 +1,59 @@
+title: dash
+author: GitHub User
+email: harshpanjwani116@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  This is Harsh Panjwani here. I like to make cool websites, do coding for fun, automate my tasks using scripts and also collect useful information on my notes App called Joplin.
+  So whatever i learned or found I like to share them in form of blogs too.
+show_excerpts: true # set to true to show excerpts on the homepage
+paginate: 2
+paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+dash:
+  # the way how dates should be displayed
+  date_format: "%b %-d, %Y"
+
+  # (optional) discqus comment configuration
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    # - url: https://twitter.com/bitbrain_
+    #   icon: twitter-square
+    #   color: cyan
+    - url: https://www.linkedin.com/in/harsh-panjwani-414276143
+      icon: linkedin
+      color: blue
+    - url: https://github.com/harsh116
+      icon: github-square
+      color: purple
+
+  # wether the author box should be displayed
+  show_author: true
+
+  # the animation speed of the scroll-in effect
+  animation_speed: 50
+
+  # wether to enable Right-to-Left support or not
+  rtl: false
+
+  # Replaces the default avatar provider (gravatar)
+  #avatar_source: github
+  #github_username: bitbrain
+  #avatar_source: local
+  #avatar_path: /assets/avatar.png
+
+# Build settings
+theme: jekyll-dash
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - liquid-md5
+  - jekyll/tagging
